@@ -8,6 +8,7 @@ core computer science concepts through practical, hands-on applications.
 ## 📌 Basics & Programming Fundamentals
 - [Rock–Paper–Scissors](basics/rock-paper-scissors)
 - [Math Quiz](basics/math-quiz)
+- [ATM System](basics/atm-system)
 
 ---
 
@@ -19,7 +20,6 @@ core computer science concepts through practical, hands-on applications.
 
 ## 📌 Object-Oriented Programming (OOP)
 - [Bank Management System](oop/bank-system)
-- [ATM System](oop/atm-system)
 
 ---
 

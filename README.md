@@ -29,7 +29,13 @@ core computer science concepts through practical, hands-on applications.
 - Linked List / Doubly Linked List
 
 ---
+## ▶️ How to Run
+1. Clone the repository
+2. Open the `.sln` file using **Visual Studio**
+3. Build the solution
+4. Run the program from the console
 
+---
 ## 🎯 Purpose of This Repository
 This repository is organized to reflect my learning journey in C++,
 starting from programming fundamentals and progressing into algorithms,

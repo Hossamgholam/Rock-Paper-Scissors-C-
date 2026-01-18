@@ -28,12 +28,6 @@ core computer science concepts through practical, hands-on applications.
 - Queue
 - Linked List / Doubly Linked List
 
----
-## ▶️ How to Run
-1. Clone the repository
-2. Open the `.sln` file using **Visual Studio**
-3. Build the solution
-4. Run the program from the console
 
 ---
 ## 🎯 Purpose of This Repository
@@ -43,3 +37,12 @@ data structures, and object-oriented design.
 
 Each project has its own folder and README explaining the problem,
 approach, and implementation details.
+
+---
+## ▶️ How to Run
+
+1. Clone the repository
+2. Open the `.sln` file using **Visual Studio**
+3. Build the solution
+4. Run the program from the console
+

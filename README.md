@@ -80,5 +80,5 @@ Each project or module has its own folder and README file explaining:
 ---
 
 ## 👤 Author
-**Hossam ElSayed**  
+**Hossam Gholam**  
 Computer Science Student | Aspiring Backend Developer
